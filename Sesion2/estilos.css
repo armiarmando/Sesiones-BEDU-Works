@@ -1,0 +1,58 @@
+body{
+   background-color: white;
+}
+.header-container-padre{
+   text-align: center;
+ 
+}
+.actions{
+   display: inline;
+   color: #67b54b;
+   text-align: center;
+   font-size: x-large;
+   padding: 25px;
+   
+}
+.opciones{
+   display: inline;
+   text-align: center;
+   font-size: x-large;
+   padding: 25px;
+   color: #025157;
+   height: 45px;
+}
+
+.cont{
+   text-align: center;
+   color: cornflowerblue;
+}
+
+footer{
+   text-align: center;
+}
+footer ul{
+   display: inline;
+   text-align: center;
+   font-size: x-large;
+   padding: 25px;
+   color: #025157;
+   height: 45px;
+}
+
+#logo{
+   width: 100px;
+   height: 100px;
+}
+#starterd{
+   color: white;
+  background-color: #67b54b;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: 0;
+  border-radius: 5px;
+}
+h3{
+   color: #67b54b;
+}
